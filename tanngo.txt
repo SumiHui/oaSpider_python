@@ -1,0 +1,156 @@
+多层感知器(Multi Layered Perceptron)  ->  MLP
+
+
+perceptron 美 [pə'septrɔn]
+n. 感知器，[计] 感知机（模拟人类视神经控制系统的图形识别机）
+
+approximate 
+vt. 近似；使…接近；粗略估计
+vi. 接近于；近似于
+adj. [数] 近似的；大概的
+
+approximately 美 [ə'prɑksɪmətli]
+adv. 大约，近似地；近于
+
+approximator  美 [ə'prɑksə,metɚ]
+n. 接近者，近似者
+
+
+criterion 英 [kraɪ'tɪərɪən]
+n. （批评判断的）标准；准则；规范；准据
+复数:criteria(美 [kraɪ'tɪrɪə])或criterions
+
+specified 美 [spɛsəˌfaɪd]
+adj. 规定的；详细说明的
+v. 指定；详细说明（specify的过去分词）
+
+corresponding
+adj. 相当的，相应的；一致的；通信的
+v. 类似（correspond的ing形式）；相配
+
+ideally 美 [aɪ'diəli]
+adv. 理想地；观念上地
+
+density 美 ['dɛnsəti]
+n. 密度
+
+typically ['tɪpɪkəlɪ]
+adv. 代表性地；作为特色地
+
+optimal  美 ['ɑptəml]
+adj. 最佳的；最理想的
+
+empirical 美 [ɪm'pɪrɪkl]
+adj. 经验主义的，完全根据经验的；实证的
+
+mean square error(MSE)  均方误差
+
+overfitting 过拟合
+
+regularization 美[ˌregjələrɪ'zeɪʃən]
+n.	正规化; 规则化，调整; 重整化;
+
+cross-entropy (CE)	交叉熵
+
+entropy 美 ['ɛntrəpi]
+n. [热] 熵（热力学函数）
+
+
+4.3.1 Data Preprocessing
+
+normalization
+
+standardizaiton
+
+reflect 美 [rɪ'flɛkt]
+vt. 反映；反射，照出；表达；显示;反省
+vi. 反射，映现；深思
+
+irrelevant 美 [ɪ'rɛləvənt]
+adj. 不相干的；不切题的
+
+subtract  美 [səb'trækt]
+vt. 减去；扣掉
+
+intensity 美 [ɪn'tɛnsəti]
+n. 强度；强烈；[电子] 亮度；紧张
+复数:intensities
+
+cepstral
+
+cepstral mean normalization (CMN)
+
+utterance 美 ['ʌtərəns]
+n. 表达；说话；说话方式
+
+acoustic 美 [ə'kʊstɪk]
+adj. 声学的；音响的；听觉的
+n. 原声乐器；不用电传音的乐器
+
+distortion  美 [dɪs'tɔrʃən]
+n. 变形；[物] 失真；扭曲；曲解
+
+scale 美 [skel]
+n. 规模；比例；鳞；刻度；天平；数值范围
+vi. 衡量；攀登；剥落；生水垢
+vt. 测量；攀登；刮鳞；依比例决定
+
+along 美 [ə'lɔŋ]
+adv. 一起；向前；来到
+prep. 沿着；顺着
+
+scale the data along each dimension using a global transformation  用一个全局转换沿着每一维刻画（依比例决定）数据
+
+Kullback-Leibler divergence (KLD)
+
+chain 美 [tʃen]
+n. 链；束缚；枷锁
+vt. 束缚；囚禁；用铁链锁住
+
+numerical
+数值的
+
+sparse matrix
+dense matrix
+
+infrastructure 美 ['ɪnfrə'strʌktʃɚ]
+n. 基础设施；公共建设；下部构造
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
